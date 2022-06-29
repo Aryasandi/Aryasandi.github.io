@@ -15,7 +15,8 @@ body {
 }
 
 .nama{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: arial;
+  text-transform: capitalize;
 }
 
 header {
@@ -776,5 +777,4 @@ header ul li a:hover {
     background-color: #2d158c;
     border-radius: 50%;
   }
-
 }
