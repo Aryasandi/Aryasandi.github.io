@@ -165,17 +165,6 @@ header ul li a:hover {
   color: #1f67db;
   opacity: 0.3
 }
-
-.ya {
-  position: absolute;
-  font-size: 100px;
-  right: 60px;
-  top: 200px;
-  color: #1f67db;
-  opacity: .3;
-  z-index: -10;
-}
-
 .circle1 {
   position: absolute;
   height: 200px;
